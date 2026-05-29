@@ -73,6 +73,6 @@ The R scripts in this repository can be used to replicate our study findings. Th
 
 #### 3 Generated Data/
 
-  * **County Proportions/daily_wildfire_prop_occ_county_{YEAR}.rds** - county proportion of workers exposed to wildfire smoke every day from 2006-2019; generated from script `10_wildfire_exposure_assessment.R`; not stored in repo due to large file size
+  * **County Proportions/daily_wildfire_prop_occ_county_{YEAR}.rds** - county proportion of workers exposed to wildfire smoke every day from 2006-2019; generated from script `10_wildfire_exposure_assessment.R`
 
-  * **County Exposure Estimates/wildfire_exp_county_year_2006_2019.rds** - Poststratified county proportion of workers exposed to wildfire smoke from 2006-2019; generated from script `11_wildfire_county_poststratification.R`; not stored in repo due to large file size
+  * **County Exposure Estimates/wildfire_exp_county_year_2006_2019.rds** - Poststratified county proportion of workers exposed to wildfire smoke from 2006-2019; generated from script `11_wildfire_county_poststratification.R`
